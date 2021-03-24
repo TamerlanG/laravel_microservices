@@ -1,0 +1,8 @@
+POST http://localhost:8000/api/products
+Accept: application/json
+Content-Type: application/json
+
+{
+    "title": "test-change",
+    "image": "test-change"
+}
